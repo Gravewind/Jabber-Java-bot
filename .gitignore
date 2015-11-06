@@ -1,0 +1,8 @@
+build/
+dist/
+lib/junit_4
+nbproject/
+*.properties
+test/
+*.xml
+*.mf
